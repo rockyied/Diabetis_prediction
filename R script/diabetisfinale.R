@@ -9,7 +9,7 @@ library(rpart.plot)
 
 
 #Load the dataset
-data <- read_csv("C:/Users/Rakes/OneDrive/Desktop/DI/rakesh/Healthcare-Diabetes.csv")
+data <- read_csv("C:/Users/Desktop/DI/rakesh/Healthcare-Diabetes.csv")
 
 #Train-Test Split
 set.seed(123)
